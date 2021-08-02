@@ -1,1 +1,1 @@
-# jenkins_pipeline_github
+# Jenkins Pipeline Github Script
